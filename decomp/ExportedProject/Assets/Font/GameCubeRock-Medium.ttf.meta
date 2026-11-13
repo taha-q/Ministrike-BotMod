@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c981e51b4fe13f24c95c8722c0340f01
+timeCreated: 1794593222
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  name:
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GameCube Rock
+  fontNames:
+  - GameCube Rock
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8755af2ba7897224893c10d4bb34eebf, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:
